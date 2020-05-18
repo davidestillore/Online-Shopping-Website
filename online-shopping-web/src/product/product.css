@@ -1,0 +1,12 @@
+.product {
+  max-width: 15rem;
+  margin: 1.5rem;
+}
+
+.product img {
+  max-height: 10rem;
+}
+
+a.btnPadding {
+  margin: 1.1rem;
+}
